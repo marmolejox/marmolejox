@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marmolejox
+- 👀 I’m interested in web development, videogames and software in general.
+- 🌱 I’m currently learning NodeJS, Angular, HTML API's, Bootstrap.
+- 💞️ I’m looking to collaborate on projects for a modern interface.
