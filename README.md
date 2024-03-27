@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/images/banner-02.png" alt="Logotipo" height="200">
+</p>
+
+
 # Hola 🍕
 
 Soy **Eduardo Marmolejo**, un joven de 24 años con una gran pasión por la *programación de software*. Me entusiasma crear aplicaciones útiles y atractivas visualmente. Mi objetivo es desarrollar soluciones innovadoras que combinen funcionalidad y un diseño elegante.
