@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/banner-02.png" alt="Logotipo" height="100">
+  <img src="/images/banner-02.png" alt="Banner Benvenida" height="100">
 </p>
 
 
@@ -25,7 +25,7 @@ Durante mi carrera universitaria abordé una gran cantidad de proyectos, los cua
  > Este repositorio contiene el trabajo de rediseño de la página web oficial de la Secretaría de Educación del Estado de Zacatecas. El objetivo principal fue mejorar la experiencia del usuario, la accesibilidad y la presentación de información relevante para estudiantes, docentes y padres de familia. Con fines educativos y sin lúcro.
 
 <p align="center">
-  <img src="/images/progress-01.png" alt="Progreso Seduzac" height="200">
+  <img src="/images/progress-01.png" alt="Progreso Seduzac" height="100">
 </p>
 
 
@@ -33,7 +33,7 @@ Durante mi carrera universitaria abordé una gran cantidad de proyectos, los cua
  > Mi portafolio personal es una aplicación web moderna y atractiva, construida con las poderosas herramientas de React y Vite. Utilizando React, un popular framework de JavaScript, he logrado crear una interfaz de usuario dinámica e interactiva, que permite a los visitantes explorar fácilmente mi trabajo y experiencia.
 
 <p align="center">
-  <img src="/images/progress-02.png" alt="Progreso Portafolio" height="200">
+  <img src="/images/progress-02.png" alt="Progreso Portafolio" height="100">
 </p>
 
 
