@@ -63,4 +63,4 @@ Si deseas contactarme por cualquier asunto, puedes dejarme un correo:
 
 
 
-❤️ por [Eddie](https://github.com/marmolejox)
+❤️ por [Eddie](https://github.com/marmolejox) Alegre por tradición.
