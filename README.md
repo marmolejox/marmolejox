@@ -64,5 +64,5 @@ Si deseas contactarme por cualquier asunto, puedes dejarme un correo:
 
 
 <p align="center">
-  <h1>Alegre por tradición ❤ Eduardo - 2024</h1>
+  <span>Alegre por tradición ❤ Eduardo - 2024<span>
 </p>
