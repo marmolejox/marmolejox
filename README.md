@@ -6,8 +6,6 @@ _Ingeniería en Sistemas Computacionales por la Universidad Autónoma de Aguasca
 
 Licenciado con dos años de experiencia en desarrollo web y de aplicaciones, así como configuración de redes. Especializado en análisis de sistemas para la definición, optimización y logro de objetivos. Tengo habilidades sobresalientes en experiencia de usuario y diseño de interfaces gráficas.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
-
 Además de mi faceta profesional en el mundo de la programación, soy una persona **sociable** y **divertida**. Disfruto de las fiestas, las salidas con amigos y saborear una ***buena cerveza***. Me encanta pasar momentos agradables y relajados en compañía.
 
 A pesar de no tener un empleo formal actualmente, trabajo de forma independiente bajo **GM**. Esto me permite mantener mi pasión por la programación mientras exploro nuevas oportunidades laborales.
