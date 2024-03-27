@@ -31,7 +31,7 @@ Si deseas contactarme por cualquier asunto, puedes dejarme un correo:
 
 
 <p align="center">
-  <img src="/images/gm.png" alt="Logotipo" height="200">
+  <img src="/images/banner-01.png" alt="Logotipo" height="200">
 </p>
 
 
