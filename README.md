@@ -28,8 +28,12 @@ Durante mi carrera universitaria abordé una gran cantidad de proyectos, los cua
 Si deseas contactarme por cualquier asunto, puedes dejarme un correo:
 [marmolejx@gmail.com](mailto:marmolejx@gmail.com)
 
+
+
 <p align="center">
-  <img src="/images/gm.png" alt="Logotipo" width="300" height="200">
+  <img src="/images/gm.png" alt="Logotipo" height="200">
 </p>
+
+
 
 ❤️ por [Eddie](https://github.com/marmolejox)
