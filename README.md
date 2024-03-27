@@ -20,13 +20,10 @@ Durante mi carrera universitaria abordé una gran cantidad de proyectos, los cua
 
  - Secretaría de Educación del Estado de Zacatecas
  > Este repositorio contiene el trabajo de rediseño de la página web oficial de la Secretaría de Educación del Estado de Zacatecas. El objetivo principal fue mejorar la experiencia del usuario, la accesibilidad y la presentación de información relevante para estudiantes, docentes y padres de familia. Con fines educativos y sin lúcro.
- > 
-* [![Angular][Angular.io]][Angular-url]
 
  - Portafolio
  > Mi portafolio personal es una aplicación web moderna y atractiva, construida con las poderosas herramientas de React y Vite. Utilizando React, un popular framework de JavaScript, he logrado crear una interfaz de usuario dinámica e interactiva, que permite a los visitantes explorar fácilmente mi trabajo y experiencia.
 
-* [![React][React.js]][React-url]
 
 # Contacto 📱
 
