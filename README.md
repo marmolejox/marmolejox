@@ -28,4 +28,7 @@ Durante mi carrera universitaria abordé una gran cantidad de proyectos, los cua
 Si deseas contactarme por cualquier asunto, puedes dejarme un correo:
 [marmolejx@gmail.com](mailto:marmolejx@gmail.com)
 
+![Logotipo](/images/gm.png)
+
+
 ❤️ por [Eddie](https://github.com/marmolejox)
