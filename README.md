@@ -17,7 +17,9 @@ Bebedor profesional de cerveza y tequila, así como simpatico espécimen en peli
 # Estadísticas 📊
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marmolejox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# ¿Qué escucho? 🎧
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wicholong&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]
 
 # Contacto 📱
 
